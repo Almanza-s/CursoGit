@@ -11,3 +11,7 @@ Se recomeinda crear una organización que sea la propietaria del repo original. 
 2. Click en organizations.
 3. Click en new organization.
 5. Llenado de datos y elección de plan
+
+## Creación de fork
+
+Para crear un frk debe siniciar sesión en github y luego ingresar a la landing page del proyecto al que le quieras hacer fork y le picas al icono de fork
