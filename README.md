@@ -15,3 +15,12 @@ Se recomeinda crear una organización que sea la propietaria del repo original. 
 ## Creación de fork
 
 Para crear un frk debe siniciar sesión en github y luego ingresar a la landing page del proyecto al que le quieras hacer fork y le picas al icono de fork
+
+## How to work with 2 or more remotes
+
+Listar remotos
+`git remote -v`  
+Agregar remotos 
+`git remote add <name> <url of repository>`  
+Eliminar remotos
+`git remote remove <name of remote>`
