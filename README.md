@@ -18,7 +18,7 @@ Para crear un frk debe siniciar sesión en github y luego ingresar a la landing 
 
 ## How to work with 2 or more remotes
 
-Listar remotos
+Ls of remotes
 `git remote -v`  
 Agregar remotos 
 `git remote add <name> <url of repository>`  
